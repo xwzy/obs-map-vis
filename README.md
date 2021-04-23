@@ -1,2 +1,2 @@
-# obs-world-vis
+# ods-world-vis
 Order Dispatch Simulator World Visualization
