@@ -1,2 +1,2 @@
-# obs-map-vis
-Order Dispatch Simulator Map Visualization
+# obs-world-vis
+Order Dispatch Simulator World Visualization
